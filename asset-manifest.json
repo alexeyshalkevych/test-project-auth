@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alexeyshalkevych/test-project-auth/static/css/main.ffaca05e.chunk.css",
+    "main.js": "/alexeyshalkevych/test-project-auth/static/js/main.10ac3271.chunk.js",
+    "main.js.map": "/alexeyshalkevych/test-project-auth/static/js/main.10ac3271.chunk.js.map",
+    "runtime-main.js": "/alexeyshalkevych/test-project-auth/static/js/runtime-main.7615bea4.js",
+    "runtime-main.js.map": "/alexeyshalkevych/test-project-auth/static/js/runtime-main.7615bea4.js.map",
+    "static/js/2.abd748e8.chunk.js": "/alexeyshalkevych/test-project-auth/static/js/2.abd748e8.chunk.js",
+    "static/js/2.abd748e8.chunk.js.map": "/alexeyshalkevych/test-project-auth/static/js/2.abd748e8.chunk.js.map",
+    "index.html": "/alexeyshalkevych/test-project-auth/index.html",
+    "precache-manifest.8dfa3810d7c6962d9313b616c4d722c1.js": "/alexeyshalkevych/test-project-auth/precache-manifest.8dfa3810d7c6962d9313b616c4d722c1.js",
+    "service-worker.js": "/alexeyshalkevych/test-project-auth/service-worker.js",
+    "static/css/main.ffaca05e.chunk.css.map": "/alexeyshalkevych/test-project-auth/static/css/main.ffaca05e.chunk.css.map",
+    "static/js/2.abd748e8.chunk.js.LICENSE.txt": "/alexeyshalkevych/test-project-auth/static/js/2.abd748e8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/alexeyshalkevych/test-project-auth/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7615bea4.js",
+    "static/js/2.abd748e8.chunk.js",
+    "static/css/main.ffaca05e.chunk.css",
+    "static/js/main.10ac3271.chunk.js"
+  ]
+}
