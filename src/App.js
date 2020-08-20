@@ -141,7 +141,8 @@ width=600,height=300,left=100,top=100`;
 
   return (
     <div className="App">
-      <form onSubmit={handleSubmit}>
+      <h1>Hello github</h1>
+      {/* <form onSubmit={handleSubmit}>
         <div>
           <input
             type="text"
@@ -203,7 +204,7 @@ width=600,height=300,left=100,top=100`;
           callback={responseFacebook}
           cssClass="Facebook-button"
         />
-      </div>
+      </div> */}
     </div>
   );
 }
