@@ -186,6 +186,7 @@ width=600,height=300,left=100,top=100`;
           buttonText="Login"
           onSuccess={responseGoogle}
           onFailure={responseGoogle}
+          autoLoad={false}
           // cookiePolicy={"single_host_origin"}
         />
       </div>
