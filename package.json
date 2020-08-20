@@ -2,7 +2,7 @@
   "name": "test_for_auth",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/alexeyshalkevych/test-project-auth",
+  "homepage": "http://alexeyshalkevych.github.io/test-project-auth",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
