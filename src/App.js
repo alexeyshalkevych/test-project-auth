@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import axios from "axios";
-import { GoogleLogin } from "react-google-login";
-import FacebookLogin from "react-facebook-login";
-import logo from "./logo.svg";
+// import { GoogleLogin } from "react-google-login";
+// import FacebookLogin from "react-facebook-login";
 import "./App.css";
 
 function App() {
