@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test-project-auth/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/test-project-auth/static/js/main.752287dc.chunk.js",
-    "main.js.map": "/test-project-auth/static/js/main.752287dc.chunk.js.map",
+    "main.js": "/test-project-auth/static/js/main.6018fd2c.chunk.js",
+    "main.js.map": "/test-project-auth/static/js/main.6018fd2c.chunk.js.map",
     "runtime-main.js": "/test-project-auth/static/js/runtime-main.a2d8063d.js",
     "runtime-main.js.map": "/test-project-auth/static/js/runtime-main.a2d8063d.js.map",
     "static/js/2.1194c589.chunk.js": "/test-project-auth/static/js/2.1194c589.chunk.js",
     "static/js/2.1194c589.chunk.js.map": "/test-project-auth/static/js/2.1194c589.chunk.js.map",
     "index.html": "/test-project-auth/index.html",
-    "precache-manifest.9ac727369290b04800cf09ee9a20aee3.js": "/test-project-auth/precache-manifest.9ac727369290b04800cf09ee9a20aee3.js",
+    "precache-manifest.f7c2a361327deacf3b8065cf4ce9364a.js": "/test-project-auth/precache-manifest.f7c2a361327deacf3b8065cf4ce9364a.js",
     "service-worker.js": "/test-project-auth/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/test-project-auth/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.1194c589.chunk.js.LICENSE.txt": "/test-project-auth/static/js/2.1194c589.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a2d8063d.js",
     "static/js/2.1194c589.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.752287dc.chunk.js"
+    "static/js/main.6018fd2c.chunk.js"
   ]
 }
