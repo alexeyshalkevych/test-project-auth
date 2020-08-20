@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/alexeyshalkevych/test-project-auth/static/css/main.ffaca05e.chunk.css",
-    "main.js": "/alexeyshalkevych/test-project-auth/static/js/main.5c2fc82f.chunk.js",
-    "main.js.map": "/alexeyshalkevych/test-project-auth/static/js/main.5c2fc82f.chunk.js.map",
+    "main.css": "/alexeyshalkevych/test-project-auth/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/alexeyshalkevych/test-project-auth/static/js/main.e215c998.chunk.js",
+    "main.js.map": "/alexeyshalkevych/test-project-auth/static/js/main.e215c998.chunk.js.map",
     "runtime-main.js": "/alexeyshalkevych/test-project-auth/static/js/runtime-main.7615bea4.js",
     "runtime-main.js.map": "/alexeyshalkevych/test-project-auth/static/js/runtime-main.7615bea4.js.map",
-    "static/js/2.624275e1.chunk.js": "/alexeyshalkevych/test-project-auth/static/js/2.624275e1.chunk.js",
-    "static/js/2.624275e1.chunk.js.map": "/alexeyshalkevych/test-project-auth/static/js/2.624275e1.chunk.js.map",
+    "static/js/2.384f283c.chunk.js": "/alexeyshalkevych/test-project-auth/static/js/2.384f283c.chunk.js",
+    "static/js/2.384f283c.chunk.js.map": "/alexeyshalkevych/test-project-auth/static/js/2.384f283c.chunk.js.map",
     "index.html": "/alexeyshalkevych/test-project-auth/index.html",
-    "precache-manifest.8262ee71b769e908d146a2e55cabc07e.js": "/alexeyshalkevych/test-project-auth/precache-manifest.8262ee71b769e908d146a2e55cabc07e.js",
+    "precache-manifest.2ec6bc3a8055a7e3f80a23dce9fe2e73.js": "/alexeyshalkevych/test-project-auth/precache-manifest.2ec6bc3a8055a7e3f80a23dce9fe2e73.js",
     "service-worker.js": "/alexeyshalkevych/test-project-auth/service-worker.js",
-    "static/css/main.ffaca05e.chunk.css.map": "/alexeyshalkevych/test-project-auth/static/css/main.ffaca05e.chunk.css.map",
-    "static/js/2.624275e1.chunk.js.LICENSE.txt": "/alexeyshalkevych/test-project-auth/static/js/2.624275e1.chunk.js.LICENSE.txt"
+    "static/css/main.5ecd60fb.chunk.css.map": "/alexeyshalkevych/test-project-auth/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.384f283c.chunk.js.LICENSE.txt": "/alexeyshalkevych/test-project-auth/static/js/2.384f283c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7615bea4.js",
-    "static/js/2.624275e1.chunk.js",
-    "static/css/main.ffaca05e.chunk.css",
-    "static/js/main.5c2fc82f.chunk.js"
+    "static/js/2.384f283c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e215c998.chunk.js"
   ]
 }
