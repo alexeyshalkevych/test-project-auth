@@ -1,2 +1,0 @@
-(this.webpackJsonptest_for_auth=this.webpackJsonptest_for_auth||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),l=n(2),u=n.n(l),o=function(){return a.a.createElement("div",null,a.a.createElement("h2",null,"Hello Github"))};n(8);u.a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(o,null)),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.e215c998.chunk.js.map
