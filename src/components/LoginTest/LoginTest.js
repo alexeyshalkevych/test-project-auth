@@ -38,8 +38,6 @@ const LoginTest = () => {
   };
 
   const responseGoogle = async (response) => {
-    console.log(response);
-
     const { accessToken } = response;
 
     const body = {
@@ -57,8 +55,6 @@ const LoginTest = () => {
   };
 
   const responseFacebook = async (response) => {
-    // console.log(response);
-
     const { accessToken } = response;
 
     console.log(accessToken);
