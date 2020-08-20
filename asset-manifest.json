@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/alexeyshalkevych/test-project-auth/static/css/main.ffaca05e.chunk.css",
-    "main.js": "/alexeyshalkevych/test-project-auth/static/js/main.79aa8ea1.chunk.js",
-    "main.js.map": "/alexeyshalkevych/test-project-auth/static/js/main.79aa8ea1.chunk.js.map",
+    "main.js": "/alexeyshalkevych/test-project-auth/static/js/main.5c2fc82f.chunk.js",
+    "main.js.map": "/alexeyshalkevych/test-project-auth/static/js/main.5c2fc82f.chunk.js.map",
     "runtime-main.js": "/alexeyshalkevych/test-project-auth/static/js/runtime-main.7615bea4.js",
     "runtime-main.js.map": "/alexeyshalkevych/test-project-auth/static/js/runtime-main.7615bea4.js.map",
-    "static/js/2.57a9b8fd.chunk.js": "/alexeyshalkevych/test-project-auth/static/js/2.57a9b8fd.chunk.js",
-    "static/js/2.57a9b8fd.chunk.js.map": "/alexeyshalkevych/test-project-auth/static/js/2.57a9b8fd.chunk.js.map",
+    "static/js/2.624275e1.chunk.js": "/alexeyshalkevych/test-project-auth/static/js/2.624275e1.chunk.js",
+    "static/js/2.624275e1.chunk.js.map": "/alexeyshalkevych/test-project-auth/static/js/2.624275e1.chunk.js.map",
     "index.html": "/alexeyshalkevych/test-project-auth/index.html",
-    "precache-manifest.80e5ee2b38702174e781e11f8bf7882b.js": "/alexeyshalkevych/test-project-auth/precache-manifest.80e5ee2b38702174e781e11f8bf7882b.js",
+    "precache-manifest.8262ee71b769e908d146a2e55cabc07e.js": "/alexeyshalkevych/test-project-auth/precache-manifest.8262ee71b769e908d146a2e55cabc07e.js",
     "service-worker.js": "/alexeyshalkevych/test-project-auth/service-worker.js",
     "static/css/main.ffaca05e.chunk.css.map": "/alexeyshalkevych/test-project-auth/static/css/main.ffaca05e.chunk.css.map",
-    "static/js/2.57a9b8fd.chunk.js.LICENSE.txt": "/alexeyshalkevych/test-project-auth/static/js/2.57a9b8fd.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/alexeyshalkevych/test-project-auth/static/media/logo.5d5d9eef.svg"
+    "static/js/2.624275e1.chunk.js.LICENSE.txt": "/alexeyshalkevych/test-project-auth/static/js/2.624275e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7615bea4.js",
-    "static/js/2.57a9b8fd.chunk.js",
+    "static/js/2.624275e1.chunk.js",
     "static/css/main.ffaca05e.chunk.css",
-    "static/js/main.79aa8ea1.chunk.js"
+    "static/js/main.5c2fc82f.chunk.js"
   ]
 }
