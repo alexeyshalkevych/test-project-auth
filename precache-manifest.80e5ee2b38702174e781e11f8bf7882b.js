@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97366d3f58e6d9383025eb2cd3927d88",
+    "revision": "3e2bed9a5bc7bdc08c103063a5ca3a10",
     "url": "/alexeyshalkevych/test-project-auth/index.html"
   },
   {
-    "revision": "9e0f0bebd154138ac424",
+    "revision": "b902716d704f50eb422e",
     "url": "/alexeyshalkevych/test-project-auth/static/css/main.ffaca05e.chunk.css"
   },
   {
-    "revision": "e671e9cf7bff0a5dd31e",
-    "url": "/alexeyshalkevych/test-project-auth/static/js/2.abd748e8.chunk.js"
+    "revision": "b75a8ebe5f07ef8e009a",
+    "url": "/alexeyshalkevych/test-project-auth/static/js/2.57a9b8fd.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/alexeyshalkevych/test-project-auth/static/js/2.abd748e8.chunk.js.LICENSE.txt"
+    "url": "/alexeyshalkevych/test-project-auth/static/js/2.57a9b8fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e0f0bebd154138ac424",
-    "url": "/alexeyshalkevych/test-project-auth/static/js/main.10ac3271.chunk.js"
+    "revision": "b902716d704f50eb422e",
+    "url": "/alexeyshalkevych/test-project-auth/static/js/main.79aa8ea1.chunk.js"
   },
   {
     "revision": "e4cbdecdfd895dea3db5",
