@@ -99,7 +99,7 @@ const LoginTest = () => {
     try {
       const opt = {
         method: "POST",
-        url: "http://localhost:4242/auth/logout",
+        url: "https://powerful-waters-91620.herokuapp.com/auth/logout",
         headers: {
           Authorization: `Bearer ${bearerToken}`,
           "Content-Type": "application/x-www-form-urlencoded",
@@ -165,7 +165,7 @@ const LoginTest = () => {
           onSuccess={responseGoogle}
           onFailure={responseGoogle}
           autoLoad={false}
-          cookiePolicy="http://localhost:3000"
+          cookiePolicy="https://powerful-waters-91620.herokuapp.com"
         />
         <FacebookLogin
           appId="628094021455729"
