@@ -165,7 +165,6 @@ const LoginTest = () => {
           onSuccess={responseGoogle}
           onFailure={responseGoogle}
           autoLoad={false}
-          cookiePolicy="https://alexeyshalkevych.github.io/test-project-auth/"
         />
         <FacebookLogin
           appId="628094021455729"
