@@ -165,7 +165,7 @@ const LoginTest = () => {
           onSuccess={responseGoogle}
           onFailure={responseGoogle}
           autoLoad={false}
-          cookiePolicy="https://powerful-waters-91620.herokuapp.com"
+          cookiePolicy="https://alexeyshalkevych.github.io/test-project-auth/"
         />
         <FacebookLogin
           appId="628094021455729"
