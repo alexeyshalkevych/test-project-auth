@@ -18,7 +18,7 @@ const LoginTest = () => {
 
     try {
       const { data } = await axios.post(
-        "http://localhost:4242/auth/register",
+        "https://powerful-waters-91620.herokuapp.com/auth/register",
         form
       );
 
@@ -40,12 +40,14 @@ const LoginTest = () => {
     try {
       const { accessToken } = response;
 
+      console.log(response);
+
       const body = {
         accessToken,
       };
 
       const { data } = await axios.post(
-        "http://localhost:4242/auth/google",
+        "https://powerful-waters-91620.herokuapp.com/auth/google",
         body
       );
 
@@ -69,7 +71,7 @@ const LoginTest = () => {
       };
 
       const { data } = await axios.post(
-        "http://localhost:4242/auth/facebook",
+        "https://powerful-waters-91620.herokuapp.com/auth/facebook",
         body
       );
 
@@ -163,6 +165,7 @@ const LoginTest = () => {
           onSuccess={responseGoogle}
           onFailure={responseGoogle}
           autoLoad={false}
+          cookiePolicy="http://localhost:3000"
         />
         <FacebookLogin
           appId="628094021455729"
